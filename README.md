@@ -1,3 +1,4 @@
+<body style="align-items:center">
 <h1>Hi there, I'm Devendra Kumar! </h1>                       
                                                                                 
                                                                                 
@@ -22,4 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Mr-DK07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</body>
