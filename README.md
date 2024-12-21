@@ -2,7 +2,7 @@
 <h1>Hi there, I'm Devendra Kumar! </h1>                       
                                                                                 
                                                                                 
-![image](https://github.com/user-attachments/assets/208070e1-37a7-45e9-b572-5a6c5673b493)
+<divalign="center">![image](https://github.com/user-attachments/assets/208070e1-37a7-45e9-b572-5a6c5673b493)</div>
 
 
 # 💻 Tech Stack:
