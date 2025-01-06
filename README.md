@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi there, I'm Devendra Kumar! A passionate Software Developer. </h1>                       
+<h1>Hi there, I'm Devendra Kumar! </h1>                       
                                                                                 
                                                                                 
 ![image](https://github.com/user-attachments/assets/208070e1-37a7-45e9-b572-5a6c5673b493)
