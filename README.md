@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi there, I'm Devendra Kumar! </h1>                       
+<h1>Hi there, I'm Devendra Kumar! </h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-DK07&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-DK07" /> </p>                      
                                                                                 
                                                                                 
 ![image](https://github.com/user-attachments/assets/208070e1-37a7-45e9-b572-5a6c5673b493)
