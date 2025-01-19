@@ -26,9 +26,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Mr-DK07&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</div>
+
 ### Badges and Awards
 
 ### GSSOC(24) Badges 🪶
+  </br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -37,15 +40,10 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />--->
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /> 
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-</div> -->
----
-
 <div align = "center">  
-<img src = "https://holopin.me/Mr-DK07">
+    </br>  </br>
+<img src="https://holopin.me/mrdk075">
+  </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-DK07&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-DK07" /> </p> 
-</div>
+
